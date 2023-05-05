@@ -1,7 +1,5 @@
 # This is Gihuyn Kim, Architector
 
----
-
 ## This is ME
 
 ---
