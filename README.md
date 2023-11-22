@@ -1,4 +1,4 @@
-# This is Gihuyn Kim, SW Back-end Enginner
+# This is Gihuyn Kim, SW Back-end Engineer
 
 ## This is ME
 
